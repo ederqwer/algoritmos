@@ -19,6 +19,7 @@ public class arbol{
             aux.der = insertar(x,aux.der);
         }
         return aux;
+        
     }
 
     public void buscar(int info){
