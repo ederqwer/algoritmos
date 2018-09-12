@@ -4,4 +4,4 @@
 /dist
 /tmp
 /out-tsc
-.class
+/.class
