@@ -7,18 +7,32 @@ public class arbol{
     public void insertar(int info){
         nodo x = new nodo(info);
         if(raiz == null) raiz = x;
-        else insertar(x, raiz);
+        else insertar(x, raiz, null);
     }
-    public nodo insertar(nodo x, nodo aux){
+    public nodo insertar(nodo x, nodo aux, nodo padre){
         if(aux == null) return x;
         if(x.info<aux.info){//izq
-            aux.izq = insertar(x,aux.izq);
+            aux.izq = insertar(x, aux.izq, aux);
             aux.w = aux.izq.w+1;
+            if(aux.factorb()<-1){//RI
+                System.out.println("Rot izq en:"+aux.info);
+            }else if(aux.factorb()>1){//RD
+                System.out.println("Rot der en:"+aux.info);
+            }
         }else{ //der
-            aux.der = insertar(x,aux.der);
+            aux.der = insertar(x, aux.der, aux);
             aux.w = aux.der.w+1;
+            if(aux.factorb()<-1){//RI
+                System.out.println("Rot izq en:"+aux.info);
+            }else if(aux.factorb()>1){//RD
+                System.out.println("Rot der en:"+aux.info);
+            }
         }
         return aux;
+    }
+
+    private void equilibrar(nodo x, nodo padre){
+
     }
 
     public void mostrar(){

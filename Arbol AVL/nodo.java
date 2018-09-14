@@ -6,4 +6,10 @@ public class nodo{
         w = 1;
         izq = der = null;
     }
+    public int factorb(){
+        int suma = 0;
+        if(izq!=null) suma+=izq.w;
+        if(der!=null) suma-=der.w;
+        return suma;
+    }
 }
