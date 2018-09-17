@@ -23,7 +23,6 @@ public class arbol{
         }
         return aux;
     }
-
     private nodo equilibrar(nodo x){
         if(x.factorb()<-1){//RI
             System.out.print("Rot izq en: "+x.info);
