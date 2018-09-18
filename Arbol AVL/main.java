@@ -10,6 +10,8 @@ public class main{
         a.insertar(11);
         a.insertar(13);
         a.insertar(4);
+        a.insertar(12);
+        a.eliminar(111);
         a.mostrar();
     }
 }

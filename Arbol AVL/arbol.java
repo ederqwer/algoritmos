@@ -15,14 +15,34 @@ public class arbol{
         if(x.info<aux.info){//izq
             aux.izq = insertar(x, aux.izq);
             aux.w = aux.izq.w+1;
-            aux = equilibrar(aux);
         }else{ //der
             aux.der = insertar(x, aux.der);
             aux.w = aux.der.w+1;
-            aux = equilibrar(aux);
+        }
+        aux = equilibrar(aux);
+        return aux;
+    }
+
+    public void eliminar(int info){
+        if(raiz!=null) raiz = eliminar(info, raiz);
+    }
+
+    public nodo eliminar(int info, nodo aux){
+        if(aux == null){
+            System.out.println("El numero "+info+" no existe.");
+            return aux;
+        }
+        if(info == aux.info){
+            System.out.println("Encontrado!");
+        }else if(info < aux.info){
+            aux.izq = eliminar(info, aux.izq);
+        }else{
+            aux.der = eliminar(info, aux.der);
         }
         return aux;
     }
+
+
     private nodo equilibrar(nodo x){
         if(x.factorb()<-1){//RI
             System.out.print("Rot izq en: "+x.info);
