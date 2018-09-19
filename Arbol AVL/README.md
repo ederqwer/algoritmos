@@ -14,7 +14,7 @@
     4
     12
 
-- Salida:
+- Eliminar:
     20
     18
     17
@@ -26,3 +26,14 @@
     15
     12
     100
+
+- Salida:
+    # Rot izq en: 15 DOBLE!
+    # Rot izq en: 20
+    # Rot izq en: 17 DOBLE!
+    # Rot der en: 15 DOBLE!
+    # Rot der en: 17
+    # Rot der en: 13
+    # Rot izq en: 4 DOBLE!
+    # Rot der en: 15 DOBLE!
+    # Arbol sin nodos para eliminar
