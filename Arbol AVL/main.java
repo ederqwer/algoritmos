@@ -11,7 +11,10 @@ public class main{
         a.insertar(13);
         a.insertar(4);
         a.insertar(12);
-        a.eliminar(111);
+        a.eliminar(20);
+        a.eliminar(18);
+        a.eliminar(17);
+        a.eliminar(11);
         a.mostrar();
     }
 }
