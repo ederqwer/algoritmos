@@ -1,7 +1,7 @@
 # Entradas y salidas de prueba
 ~Para lacayos
 
-# CASO 1
+# Caso 1
 - Entrada:
     15
     20
