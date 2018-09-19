@@ -27,7 +27,24 @@
     12
     100
 
-- Salida:
+- Salida sin eliminar:
+    - Rot izq en: 15 DOBLE!
+    - Rot izq en: 20
+    - Rot izq en: 17 DOBLE!
+    - Rot der en: 15 DOBLE!
+    - Rot der en: 17
+    - 20 w = 4
+    - 13 w = 3
+    - 30 w = 2
+    - 11 w = 2
+    - 17 w = 2
+    - 35 w = 1
+    - 4 w = 1
+    - 12 w = 1
+    - 15 w = 1
+    - 18 w = 1
+
+- Salida con eliminados:
     - Rot izq en: 15 DOBLE!
     - Rot izq en: 20
     - Rot izq en: 17 DOBLE!
