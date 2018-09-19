@@ -15,6 +15,13 @@ public class main{
         a.eliminar(18);
         a.eliminar(17);
         a.eliminar(11);
+        a.eliminar(35);
+        a.eliminar(4);
+        a.eliminar(30);
+        a.eliminar(13);
+        a.eliminar(15);
+        a.eliminar(12);
+        a.eliminar(100);
         a.mostrar();
     }
 }

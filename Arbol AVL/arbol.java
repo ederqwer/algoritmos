@@ -26,6 +26,7 @@ public class arbol{
 
     public void eliminar(int info){
         if(raiz!=null) raiz = eliminar(info, raiz);
+        else System.out.println("Arbol sin nodos para eliminar");
     }
 
     public nodo eliminar(int info, nodo aux){
@@ -34,7 +35,6 @@ public class arbol{
             return aux;
         }
         if(info == aux.info){
-            System.out.println("Encontrado!");
             int hijos = ((aux.izq!=null)?1:0) + ((aux.der!=null)?1:0);
             if(hijos==2){//Encontrar el mayor izq
                 aux.izq = findlargest(aux.izq, aux);
@@ -118,7 +118,7 @@ public class arbol{
     public void mostrar(){
         Queue<nodo> q = new LinkedList<nodo>();
         if(raiz!=null)q.add(raiz);
-        else System.out.println("Sin datos");
+        else System.out.println("Arbol sin nodos");
         while(!q.isEmpty()){
             if(q.element().izq!=null) q.add(q.element().izq);
             if(q.element().der!=null) q.add(q.element().der);
