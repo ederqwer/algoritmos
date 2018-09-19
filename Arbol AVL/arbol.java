@@ -14,10 +14,8 @@ public class arbol{
         if(aux == null) return x;
         if(x.info<aux.info){//izq
             aux.izq = insertar(x, aux.izq);
-            //aux.w = aux.izq.w+1;
         }else{ //der
             aux.der = insertar(x, aux.der);
-            //aux.w = aux.der.w+1;
         }
         aux.w = Math.max(altura(aux.izq), altura(aux.der)) + 1;
         aux = equilibrar(aux);
@@ -36,12 +34,12 @@ public class arbol{
         }
         if(info == aux.info){
             int hijos = ((aux.izq!=null)?1:0) + ((aux.der!=null)?1:0);
-            if(hijos==2){//Encontrar el mayor izq
+            if(hijos==2)//Encontrar el mayor izq
                 aux.izq = findlargest(aux.izq, aux);
-            }else if(hijos == 1){//Redirección directa
-                if(aux.izq!=null) return aux.izq;
-                else return aux.der;
-            }else return null;//Es una hoja
+            else if(hijos == 1)//Redirección directa
+                return (aux.izq!=null)?aux.izq:aux.der;
+            else
+                return null;//Es una hoja
         }else if(info < aux.info){
             aux.izq = eliminar(info, aux.izq);
         }else{
