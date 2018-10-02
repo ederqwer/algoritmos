@@ -3,6 +3,9 @@
 
 # Coj:
 
+- 1-octubre-2018
+    - http://coj.uci.cu/24h/problem.xhtml?pid=4052
+
 - 18-sep-2018
 
     - http://coj.uci.cu/24h/problem.xhtml?pid=1991
@@ -19,3 +22,4 @@
     - http://coj.uci.cu/24h/problem.xhtml?pid=1099
     - http://coj.uci.cu/24h/problem.xhtml?pid=1003
     - http://coj.uci.cu/24h/problem.xhtml?pid=1312
+
