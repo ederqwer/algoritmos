@@ -5,6 +5,7 @@
 
 - 1-octubre-2018
     - http://coj.uci.cu/24h/problem.xhtml?pid=4052
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3507
 
 - 18-sep-2018
 

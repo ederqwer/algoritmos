@@ -3,3 +3,5 @@
 # compiled output java
 .class
 *.class
+*.exe
+main.cpp
