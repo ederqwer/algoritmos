@@ -28,7 +28,7 @@ public class arbol{
         return aux;
     }
 
-    public nodo partir(nodo padre, nodo aux){
+    public nodo partir(nodo padre, nodo aux){http://surviv.io/#Offh
             int app = 0;
             int tam = aux.valores.length;
             int medio = tam%2==0? tam/2-1: tam/2;
