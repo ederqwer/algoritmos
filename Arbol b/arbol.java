@@ -23,7 +23,12 @@ public class arbol{
             }
         }
         if(aux.desborda()){ //necesito partirme
-            
+            aux = partir(padre, aux);
+        }
+        return aux;
+    }
+
+    public nodo partir(nodo padre, nodo aux){
             int app = 0;
             int tam = aux.valores.length;
             int medio = tam%2==0? tam/2-1: tam/2;
@@ -61,12 +66,7 @@ public class arbol{
                 aux = nuevo;
                 aux.hoja = false;
             }
-        }
-        return aux;
-    }
-
-    public nodo partir(){
-
+            return aux;
     }
 
     public void mostrar(){
