@@ -6,6 +6,7 @@
 - 20-octumbre-2018 (Algebra - Aritmética)
     - http://coj.uci.cu/24h/problem.xhtml?pid=1407
     - http://coj.uci.cu/24h/problem.xhtml?pid=3797
+    - http://coj.uci.cu/24h/problem.xhtml?pid=1979
 
 - 19-octubre-2018
     - (FACIL)
