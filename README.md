@@ -6,6 +6,11 @@
 - 21-octubre-2018 (Variados)
     - http://coj.uci.cu/24h/problem.xhtml?pid=1790
     - http://coj.uci.cu/24h/problem.xhtml?pid=2266
+    - http://coj.uci.cu/24h/problem.xhtml?pid=2758
+    - http://coj.uci.cu/24h/problem.xhtml?pid=2805
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3031
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3051
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3077
 
 - 20-octubre-2018 (Algebra - Aritmética)
     - http://coj.uci.cu/24h/problem.xhtml?pid=1407
