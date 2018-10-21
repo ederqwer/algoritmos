@@ -3,7 +3,11 @@
 
 # Coj:
 
-- 20-octumbre-2018 (Algebra - Aritmética)
+- 21-octubre-2018 (Variados)
+    - http://coj.uci.cu/24h/problem.xhtml?pid=1790
+    - http://coj.uci.cu/24h/problem.xhtml?pid=2266
+
+- 20-octubre-2018 (Algebra - Aritmética)
     - http://coj.uci.cu/24h/problem.xhtml?pid=1407
     - http://coj.uci.cu/24h/problem.xhtml?pid=3797
     - http://coj.uci.cu/24h/problem.xhtml?pid=1979
