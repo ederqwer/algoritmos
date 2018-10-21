@@ -9,6 +9,7 @@
     - http://coj.uci.cu/24h/problem.xhtml?pid=1979
     - http://coj.uci.cu/24h/problem.xhtml?pid=3409
     - http://coj.uci.cu/24h/problem.xhtml?pid=1381
+    - http://coj.uci.cu/24h/problem.xhtml?pid=1110 (muy muy muy divertido)
 
 - 19-octubre-2018
     - (FACIL)
