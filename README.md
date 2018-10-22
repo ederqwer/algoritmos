@@ -11,6 +11,7 @@
     - http://coj.uci.cu/24h/problem.xhtml?pid=3031
     - http://coj.uci.cu/24h/problem.xhtml?pid=3051
     - http://coj.uci.cu/24h/problem.xhtml?pid=3077
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3239 (Priority Queue)
 
 - 20-octubre-2018 (Algebra - Aritmética)
     - http://coj.uci.cu/24h/problem.xhtml?pid=1407
