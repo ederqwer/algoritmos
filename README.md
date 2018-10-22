@@ -3,6 +3,9 @@
 
 # Coj:
 
+- 22-octubre-2018 (Variados)
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3267 (Muy bueno)
+
 - 21-octubre-2018 (Variados)
     - http://coj.uci.cu/24h/problem.xhtml?pid=1790
     - http://coj.uci.cu/24h/problem.xhtml?pid=2266
