@@ -12,6 +12,7 @@
     - http://coj.uci.cu/24h/problem.xhtml?pid=3051
     - http://coj.uci.cu/24h/problem.xhtml?pid=3077
     - http://coj.uci.cu/24h/problem.xhtml?pid=3239 (Priority Queue)
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3355 (Criba ? :D)
 
 - 20-octubre-2018 (Algebra - Aritmética)
     - http://coj.uci.cu/24h/problem.xhtml?pid=1407
@@ -47,7 +48,6 @@
     - http://coj.uci.cu/24h/problem.xhtml?pid=3711 (Divertido ^^)
     - http://coj.uci.cu/24h/problem.xhtml?pid=3793 (Multiset ? :O pero que es eso)
     - http://coj.uci.cu/24h/problem.xhtml?pid=3956 (Muy bonito)
-    - http://coj.uci.cu/24h/problem.xhtml?pid=3355 (Criba ? :D)
 
 - 1-octubre-2018
     - http://coj.uci.cu/24h/problem.xhtml?pid=4052
