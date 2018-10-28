@@ -3,7 +3,7 @@
 
 # Coj:
 
-- 28-octubre-2018 
+- 28-octubre-2018 (Para romper la cabeza, reforzar mapeo mental en arreglos y matrices)
     - http://coj.uci.cu/24h/problem.xhtml?pid=2762 (Tarea para lunes)
     - http://coj.uci.cu/24h/problem.xhtml?pid=2763 (Pendiente para el salon)
     - http://coj.uci.cu/24h/problem.xhtml?pid=3018 (Pendiente para el salon)
