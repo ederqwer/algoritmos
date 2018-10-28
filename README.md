@@ -3,8 +3,13 @@
 
 # Coj:
 
+- 28-octubre-2018 (Tarea para lunes)
+    - http://coj.uci.cu/24h/problem.xhtml?pid=2762
+
 - 22-octubre-2018 (Variados)
     - http://coj.uci.cu/24h/problem.xhtml?pid=3267 (Muy bueno)
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3545 (:O)
+    
 
 - 21-octubre-2018 (Variados)
     - http://coj.uci.cu/24h/problem.xhtml?pid=1790
