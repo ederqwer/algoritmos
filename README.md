@@ -7,6 +7,8 @@
     - http://coj.uci.cu/24h/problem.xhtml?pid=2762 (Tarea para lunes)
     - http://coj.uci.cu/24h/problem.xhtml?pid=2763 (Pendiente para el salon)
     - http://coj.uci.cu/24h/problem.xhtml?pid=3018 (Pendiente para el salon)
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3422 (Un simple problema)
+    - http://coj.uci.cu/24h/problem.xhtml?pid=1952 (Aplicando arboles binarios)
 
 - 22-octubre-2018 (Variados)
     - http://coj.uci.cu/24h/problem.xhtml?pid=3267 (Muy bueno)
