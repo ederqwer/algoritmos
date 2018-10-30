@@ -8,6 +8,8 @@
     - http://coj.uci.cu/24h/problem.xhtml?pid=3323 (Vean patrones :V)
     - http://coj.uci.cu/24h/problem.xhtml?pid=3319 (Una cribita o que papu)
     - http://coj.uci.cu/24h/problem.xhtml?pid=3331 (Dibujar en papel, ver todas las posibilidades, ver caso especifico)
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3628 (Sale rápido)
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3314 (Buen brute force)
 
 - 28-octubre-2018 (Para romper la cabeza, reforzar mapeo mental en arreglos y matrices)
     - http://coj.uci.cu/24h/problem.xhtml?pid=2762 (Tarea para lunes)
