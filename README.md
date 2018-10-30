@@ -5,6 +5,8 @@
 
 - 30-octubre-2018 
     - http://coj.uci.cu/24h/problem.xhtml?pid=2752 (Para pasar la tardeada)
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3323 (Vean patrones :V)
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3319 (Una cribita o que papu)
 
 - 28-octubre-2018 (Para romper la cabeza, reforzar mapeo mental en arreglos y matrices)
     - http://coj.uci.cu/24h/problem.xhtml?pid=2762 (Tarea para lunes)
@@ -52,7 +54,7 @@
     - http://coj.uci.cu/24h/problem.xhtml?pid=2909
     - http://coj.uci.cu/24h/problem.xhtml?pid=3253
     - http://coj.uci.cu/24h/problem.xhtml?pid=3333
-    - (INTERMEDIO)
+    - (INTERMEDIO) Algunos de intermedio son complicados de hacer, pueden preguntarme acerca de cada uno y lo atendemos. ^^
     - http://coj.uci.cu/24h/problem.xhtml?pid=2307
     - http://coj.uci.cu/24h/problem.xhtml?pid=1094 (:O)
     - http://coj.uci.cu/24h/problem.xhtml?pid=1651 (:OOOO RMQ)
