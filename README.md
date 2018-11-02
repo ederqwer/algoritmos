@@ -6,6 +6,7 @@
 - 1-nov-2018
     - http://coj.uci.cu/24h/problem.xhtml?pid=3866 (Bit Manipulation)
     - http://coj.uci.cu/24h/problem.xhtml?pid=3486 (Para mapear matrices, y prácticar entradas)
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3452 (isi)
 
 - 30-octubre-2018 
     - http://coj.uci.cu/24h/problem.xhtml?pid=2752 (Para pasar la tardeada)
