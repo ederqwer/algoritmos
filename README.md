@@ -3,6 +3,9 @@
 
 # Coj:
 
+- 1-nov-2018
+    - http://coj.uci.cu/24h/problem.xhtml?pid=3866 (Bit Manipulation)
+
 - 30-octubre-2018 
     - http://coj.uci.cu/24h/problem.xhtml?pid=2752 (Para pasar la tardeada)
     - http://coj.uci.cu/24h/problem.xhtml?pid=3323 (Vean patrones :V)
